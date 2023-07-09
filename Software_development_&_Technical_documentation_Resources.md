@@ -2,7 +2,7 @@
 
 ## Github repos  starred
 1. [Awesome Readme](https://github.com/matiassingers/awesome-readme): Has a lot of awesome readmes. Article to learn the Art of writing good Readmes; Tools
-writing good readmes: and tools foe creating Gifs.
+writing good readmes: and tools for creating Gifs.
 
 ## Tools for technical documentation
 *  Snagit- a free tool to capture the screen
